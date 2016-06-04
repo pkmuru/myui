@@ -1,5 +1,0 @@
-# myui
-
-react
-webpack
-babel

@@ -10,7 +10,7 @@ export default class MyAwesomeReactComponent extends React.Component {
                      iconClassNameRight="muidocs-icon-navigation-expand-more"
             />
 
-            <Login/>
+           
             <input type="text" className="form-control"/>
             <input type="button" className="btn btn-default" value="Click here"/>
 
